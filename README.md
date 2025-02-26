@@ -15,14 +15,14 @@ Este es un programa en **Java** que permite gestionar una lista de tareas, permi
 
 ## 📌 Requisitos previos
 Para ejecutar este programa, necesitas:
-- Tener instalado **Java 8 o superior**.
+- Tener instalado **GIT**.
+- Tener instalado **Java (JDK) 17.0.13 o superior**.
 - Tener instalado **Visual Studio Code** con la extensión **Code Runner** o **Debugger for Java**.
 
 ## 📖 Uso
 ### 1️⃣ Clonar el repositorio
 ```bash
- git clone https://github.com/tu-usuario/nombre-del-repositorio.git
- cd nombre-del-repositorio
+ git clone https://github.com/RicardoArevaloB/Lista-de-Tareas-con-LinkedHashSet.git
 ```
 
 ### 2️⃣ Abrir en Visual Studio Code
